@@ -8,6 +8,7 @@ The Intended Uses: To support teachers in finding relevant gamified resources an
    git clone https://github.com/Yara-waw/TGC-Ontology.git
 2. Open the project in an ontology editor like Protege
 
+#License
 This prject is part of a PhD research work at the University of Technology of Compiegne (UTC), France. UMR CNRS 7253 , laboratoire HEUDIASYC
 
 For more information, please contact us through ( yara.gomaa@hds.utc.fr - yara.maher@ufe.edu.eg) with the subject title "TGC Assistance"
