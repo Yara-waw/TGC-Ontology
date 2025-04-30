@@ -5,7 +5,7 @@ The Intended Uses: To support teachers in finding relevant gamified resources an
 
 #Installation
 1.Clone the repository to your local machine:
-   git clone https://github.com/Yara-waw/TGC-Ontology.git
+   git clone [https://github.com/Yara-waw/TGC-Ontology.git]
 2. Open the project in an ontology editor like Protege
 
 #License
